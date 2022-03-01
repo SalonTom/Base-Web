@@ -1,0 +1,11 @@
+{
+  "name": "coo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./src/main",
+    "scripts": {
+      "build": "tsc",
+      "watch": "tsc --watch",
+      "main": "node typescript/dist/main.js"
+    }
+}
