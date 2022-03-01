@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"lib" : [ "DOM", "ES6" ],
+		"outDir": "./typescript/dist",	
+		"strict": true,		
+		"target" : "ES3",
+	}
+}
