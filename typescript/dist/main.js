@@ -32,8 +32,8 @@ var manips;
     console.log(kind, PropKind[PropKind.Read]); // 1 Read
     console.log(PropKind.Write, PropKind[PropKind.Write]); // 4 Write
     console.log(PropKind.Indexed); // indexed
-    var key = Symbol();
-    var key2 = Symbol();
+    // const key = Symbol();
+    // const key2 = Symbol();
     // console.log(key == key2) // erreur
     var KEY = "key";
     var e1 = KEY;
@@ -72,7 +72,7 @@ var manips;
     var wordIndex = {
         "interface": [28, 75, 152],
         "class": [30, 102, 215],
-        "length": 3
+        "length": 3,
     };
     var str = "name";
     // const str : keyof ICharacter = "test"; throm un erreur puisque test n'est pas une clé de l'interface ICharacter

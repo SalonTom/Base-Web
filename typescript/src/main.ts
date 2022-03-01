@@ -23,8 +23,8 @@ namespace manips {
   console.log(PropKind.Write, PropKind[PropKind.Write]); // 4 Write
   console.log(PropKind.Indexed); // indexed
 
-  const key = Symbol();
-  const key2 = Symbol();
+  // const key = Symbol();
+  // const key2 = Symbol();
   // console.log(key == key2) // erreur
 
   const KEY = "key";
