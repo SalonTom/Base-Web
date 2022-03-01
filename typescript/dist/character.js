@@ -70,3 +70,4 @@ var Character = /** @class */ (function (_super) {
     return Character;
 }(Component));
 exports.Character = Character;
+//# sourceMappingURL=character.js.map

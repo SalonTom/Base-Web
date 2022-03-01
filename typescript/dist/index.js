@@ -15,3 +15,4 @@ jean.trackedBy(tracker);
 jean.location = "Hivetchut";
 jean.move(400, 300);
 console.log(jean.getX(), jean.getY());
+//# sourceMappingURL=index.js.map
